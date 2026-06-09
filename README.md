@@ -102,13 +102,6 @@ Databricks-powered analytics platform leveraging Bronze–Silver–Gold architec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge\&logo=Jupyter\&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Harsh-Vardhan&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Harsh-Vardhan&layout=compact)
 
 ---
 
