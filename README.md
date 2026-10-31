@@ -10,7 +10,7 @@ I'm a Computer Science undergraduate at **IIIT Nagpur** building intelligent sys
 
 🏆 **Meta PyTorch OpenEnv Hackathon 2026** Grand Finale finalist, selected from 52,000+ developers
 
-🏫 Built campus tools used across IIIT Nagpur: **PRAVESH**, the gate system (**1,000+ students**, [Director's award](https://drive.google.com/file/d/1mFaT00XQ3GksPhE4ODQIOOVK2w_XN7UI/view?usp=sharing)), and **BADAL**, a Telegram campus bot I built solo (**1,200+ users**)
+🏫 Built campus tools used across IIIT Nagpur: **PRAVESH**, the gate system (**1,000+ students**, [Director's award](https://drive.google.com/file/d/1mFaT00XQ3GksPhE4ODQIOOVK2w_XN7UI/view?usp=sharing)), and **BADAL**, a Telegram campus bot (**1,200+ users**)
 
 🔬 My work focuses on **Multi-Agent AI Systems**, **Computer Vision**, **Image Forensics**, and **Data Engineering**
 
@@ -40,7 +40,7 @@ Building AI and data features for a farmer app in 6 Indian languages: crop diagn
 - Built an AI crop-disease diagnosis service (**Gemini** 3-model council + judge, Node.js, PostgreSQL) that gives farmers a diagnosis and treatment in their own language, verified by an agronomist
 - Trained **PyTorch EfficientNetV2** classifiers over 5 ablation phases and 55+ runs (macro-F1 0.81 → 0.99), then led the pivot to zero-shot Gemini so diagnosis scaled from **1 crop to 20+**
 - Rebuilt a crop market-price pipeline (**Python** ETL, **GCP Cloud Run Jobs**, PostgreSQL) over **7M+ rows** with reconciliation checks and quarantine, fixing stale prices shown to farmers
-- Built **GramIQ Academy**, a bilingual farm-economics course with AI-generated video and signed certificates, taken by **80+ students**
+- Built **GramIQ Academy**, a bilingual farm-economics course taken by **80+ students**
 
 ---
 
@@ -104,7 +104,7 @@ Research-driven image forensics system for pixel-level tampering detection using
 
 ### 💬 [BADAL](https://t.me/CRISPR_Online_Menu_Bot) — Campus Utility Bot
 
-A Telegram bot I built solo, used by **1,200+ students** at IIIT Nagpur for academic resources, campus services and schedules in one chat.
+A Telegram bot used by **1,200+ students** at IIIT Nagpur for academic resources, campus services and schedules in one chat.
 
 <details>
 <summary><b>📂 More projects: HNDSR, Chakra, CASCADE, RetailPulse</b></summary>
