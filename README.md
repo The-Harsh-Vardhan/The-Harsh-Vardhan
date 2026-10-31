@@ -10,7 +10,7 @@ I'm a Computer Science undergraduate at **IIIT Nagpur** building intelligent sys
 
 🏆 **Meta PyTorch OpenEnv Hackathon 2026** Grand Finale finalist, selected from 52,000+ developers
 
-🚪 **PRAVESH**, my campus gate system, is used by **1,000+ students** and won a [team award from the Director of IIIT Nagpur](https://drive.google.com/file/d/1mFaT00XQ3GksPhE4ODQIOOVK2w_XN7UI/view?usp=sharing)
+🏫 Built campus tools used across IIIT Nagpur: **PRAVESH**, the gate system (**1,000+ students**, [Director's award](https://drive.google.com/file/d/1mFaT00XQ3GksPhE4ODQIOOVK2w_XN7UI/view?usp=sharing)), and **BADAL**, a Telegram campus bot I built solo (**1,200+ users**)
 
 🔬 My work focuses on **Multi-Agent AI Systems**, **Computer Vision**, **Image Forensics**, and **Data Engineering**
 
@@ -104,7 +104,7 @@ Research-driven image forensics system for pixel-level tampering detection using
 
 ### 💬 [BADAL](https://t.me/CRISPR_Online_Menu_Bot) — Campus Utility Bot
 
-A Telegram bot used by **1,200+ students** at IIIT Nagpur for academic resources, campus services and schedules in one chat.
+A Telegram bot I built solo, used by **1,200+ students** at IIIT Nagpur for academic resources, campus services and schedules in one chat.
 
 <details>
 <summary><b>📂 More projects: HNDSR, Chakra, CASCADE, RetailPulse</b></summary>
