@@ -84,7 +84,7 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-### 🤖 [ReasonSQL](https://github.com/The-Harsh-Vardhan/ReasonSQL) — Multi-Agent NL2SQL Platform · [Live Demo](https://reason-sql.vercel.app/)
+### 🤖 [ReasonSQL](https://github.com/The-Harsh-Vardhan/ReasonSQL) — Multi-Agent NL2SQL Platform · [Live Demo](https://reason-sql.vercel.app/) · [Docs](https://the-harsh-vardhan.github.io/ReasonSQL/)
 
 LangGraph agents that turn natural-language questions into safe, executable SQL. Raised accuracy on complex multi-join queries from ~50% to **85%+**, and won a problem statement at the MarketWise Hackathon 2026.
 
@@ -98,7 +98,7 @@ Replaced the campus's manual gate logbook: an RFID prototype (ESP32-CAM, PHP, My
 - Deployed for **1,000+ students** at IIIT Nagpur, cutting manual entry records by 85% and gate processing time by up to 70%
 - 🏅 [Team award from the Director of IIIT Nagpur](https://drive.google.com/file/d/1mFaT00XQ3GksPhE4ODQIOOVK2w_XN7UI/view?usp=sharing) (15 August)
 
-### 👁️ [TIDAL](https://github.com/The-Harsh-Vardhan/TIDAL-Tampered_Image_Detection_And_Localization) — Tampered Image Detection & Localization · [Manuscript](https://drive.google.com/file/d/1P6OABCP5tcErRTyOoBUU-2-xv--tV9M0/view?usp=sharing)
+### 👁️ [TIDAL](https://github.com/The-Harsh-Vardhan/TIDAL-Tampered_Image_Detection_And_Localization) — Tampered Image Detection & Localization · [Manuscript](https://drive.google.com/file/d/1P6OABCP5tcErRTyOoBUU-2-xv--tV9M0/view?usp=sharing) · [Docs](https://the-harsh-vardhan.github.io/TIDAL-Tampered_Image_Detection_And_Localization/)
 
 Research-driven image forensics system for pixel-level tampering detection using UNet + ResNet-34 on CASIA v2.0 (12k+ images). A 60+ experiment ablation study found Multi-Quality ELA worth **+34.19 pp**; final F1 0.7965, IoU 0.6615, AUC 0.9665.
 
@@ -107,23 +107,27 @@ Research-driven image forensics system for pixel-level tampering detection using
 A Telegram bot used by **1,200+ students** at IIIT Nagpur for academic resources, campus services and schedules in one chat.
 
 <details>
-<summary><b>📂 More projects: HNDSR, Chakra, CASCADE, RetailPulse</b></summary>
+<summary><b>📂 More projects: HNDSR, Chakra, CASCADE, RetailPulse, PPE Safety</b></summary>
 
-### 🛰️ [HNDSR](https://github.com/The-Harsh-Vardhan/HNDSR) — Satellite Image Super-Resolution · [Manuscript](https://drive.google.com/file/d/1Nf1mH12pMqfyF3-PMfXyBfMv8F9ts8lm/view?usp=sharing)
+### 🛰️ [HNDSR](https://github.com/The-Harsh-Vardhan/HNDSR) — Satellite Image Super-Resolution · [Manuscript](https://drive.google.com/file/d/1Nf1mH12pMqfyF3-PMfXyBfMv8F9ts8lm/view?usp=sharing) · [Docs](https://the-harsh-vardhan.github.io/HNDSR/)
 
-Hybrid Neural Operator–Diffusion architecture for continuous-scale satellite image super-resolution with PSNR 29.40 dB and SSIM 0.87.
+Hybrid Neural Operator–Diffusion architecture for continuous-scale satellite image super-resolution targeting 29.40 dB PSNR (paper); the current v3 run measures 23.48 dB PSNR and 0.570 SSIM, with the full ablation in the repo.
 
 ### 🔄 [Chakra](https://github.com/The-Harsh-Vardhan/Chakra-Autonomous-Research-System) — Autonomous ML Research System · [Docs](https://the-harsh-vardhan.github.io/Chakra-Autonomous-Research-System/)
 
-A cyclic research engine that plans, trains, guards, reviews and improves ML experiments from one command, with 47 passing tests across 3 shipped domains.
+A cyclic research engine that plans, trains, reviews, guards and improves ML experiments from one command, with 66 test functions across 3 shipped domains.
 
-### 💥 [CASCADE](https://github.com/The-Harsh-Vardhan/CASCADE) — PR Blast-Radius Analyzer · [Design Doc](https://github.com/The-Harsh-Vardhan/CASCADE/blob/main/submission/design%20document/design_document_expanded.pdf)
+### 💥 [CASCADE](https://github.com/The-Harsh-Vardhan/CASCADE) — PR Blast-Radius Analyzer · [Design Doc](https://github.com/The-Harsh-Vardhan/CASCADE/blob/main/submission/design%20document/design_document_expanded.pdf) · [Docs](https://the-harsh-vardhan.github.io/CASCADE/)
 
 Given a GitHub PR URL, builds an evidence-backed knowledge graph (Neo4j, static analysis, Playwright) to tell QA teams which UI pages and product requirements are at risk and exactly what to test.
 
-### 📊 [RetailPulse](https://github.com/The-Harsh-Vardhan/RetailPulse) — Retail Analytics Lakehouse · [Manuscript](https://drive.google.com/file/d/1fX6BR2TjeIC6snN-h71rs8O2ILMNIx5o/view?usp=sharing)
+### 📊 [RetailPulse](https://github.com/The-Harsh-Vardhan/RetailPulse) — Retail Analytics Lakehouse · [Manuscript](https://drive.google.com/file/d/1fX6BR2TjeIC6snN-h71rs8O2ILMNIx5o/view?usp=sharing) · [Docs](https://the-harsh-vardhan.github.io/RetailPulse/)
 
 Databricks-powered analytics platform leveraging Bronze–Silver–Gold architecture, ETL pipelines, and business intelligence workflows.
+
+### 🦺 [PPE Safety](https://github.com/The-Harsh-Vardhan/PPE-Safety-Compliance-Detection-System) — Real-Time PPE Compliance Monitoring · [Docs](https://the-harsh-vardhan.github.io/PPE-Safety-Compliance-Detection-System/)
+
+YOLOv8/YOLOv11 + SAM3 detection pipeline that flags missing safety gear on video feeds, with a FastAPI backend and a Next.js dashboard.
 
 </details>
 
